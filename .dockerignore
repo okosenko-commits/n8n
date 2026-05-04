@@ -38,3 +38,7 @@
 !packages/@n8n/benchmark/**
 !packages/@n8n/typescript-config
 !packages/@n8n/typescript-config/**
+
+# === client-oauth2 service (Railway Railpack build) ===
+!packages/@n8n/client-oauth2
+!packages/@n8n/client-oauth2/**
